@@ -1,0 +1,11 @@
+Django
+markdown
+django-filter
+django-markdownx
+django-phonenumber-field
+phonenumbers
+djangorestframework-simplejwt
+django-nested-admin
+drf-yasg
+django-cleanup
+django-admin-tools
